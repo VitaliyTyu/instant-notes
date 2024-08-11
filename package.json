@@ -1,6 +1,6 @@
 {
   "name": "instant-notes-electron",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "vitaliytyu",
   "description": "instant-notes",
   "main": "main.js",
@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "dotenv": "^16.4.5",
-    "electron-squirrel-startup": "^1.0.1"
+    "electron-squirrel-startup": "^1.0.1",
+    "update-electron-app": "^3.0.0"
   }
 }
