@@ -19,8 +19,7 @@ const APP_VERSION = import.meta.env.VITE_APP_VERSION;
   </p>
 
   <p>
-    For a guide and recipes on how to configure / customize this project,<br />
-    check out the
+    Test test test
     <a
       href="https://github.com/cawa-93/vite-electron-builder"
       target="_blank"

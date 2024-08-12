@@ -20,7 +20,7 @@
     "src/**/*.vue",
     "src/**/*.ts",
     "src/**/*.tsx",
-    "types/**/*.d.ts",
+    "vue/types/**/*.d.ts",
     "../../types/**/*.d.ts"
   ],
   "exclude": ["**/*.spec.ts", "**/*.test.ts"]
